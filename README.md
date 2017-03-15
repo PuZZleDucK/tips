@@ -36,7 +36,7 @@ Tips / information sharing / onboarding stuff for CfA
 * [Perftool](http://performance-tool.devbridge.com/): collect & display performance stats for your web project
 
 ## Design tools
-* [colordrop.io](colordrop.io/): find nice colour palettes
+* [colordrop.io](http://colordrop.io/): find nice colour palettes
 * [Principal](http://principleformac.com/): animate prototypes 
 
 ## General tools
